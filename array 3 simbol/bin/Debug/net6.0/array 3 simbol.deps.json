@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "array 3 simbol/1.0.0": {
+        "runtime": {
+          "array 3 simbol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "array 3 simbol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/bin/Debug/net6.0/array 3 simbol
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/bin/Debug/net6.0/array 3 simbol.deps.json
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/bin/Debug/net6.0/array 3 simbol.runtimeconfig.json
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/bin/Debug/net6.0/array 3 simbol.dll
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/bin/Debug/net6.0/array 3 simbol.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.csproj.AssemblyReference.cache
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.AssemblyInfoInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.AssemblyInfo.cs
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.csproj.CoreCompileInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.dll
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/refint/array 3 simbol.dll
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/array 3 simbol.genruntimeconfig.cache
+/Users/stanislavslepa/Desktop/GeekBrains /controlTest/control_test-1/array 3 simbol/obj/Debug/net6.0/ref/array 3 simbol.dll
